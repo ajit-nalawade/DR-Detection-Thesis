@@ -15,12 +15,11 @@ https://github.com/s9xie/hed/blob/master/examples/hed/HED-tutorial.ipynb <bR>
 https://cv-tricks.com/opencv-dnn/edge-detection-hed/ <bR>
 https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/ <bR>
 
-Custom Generator <bR>
-https://towardsdatascience.com/writing-custom-keras-generators-fe815d992c5a <bR>
 
 ### Models
 
-
+Custom Generator <bR>
+https://towardsdatascience.com/writing-custom-keras-generators-fe815d992c5a <bR>
 
 Cycle GAN with SSL <bR>
 https://github.com/arnab39/Semi-supervised-segmentation-cycleGAN <bR>
